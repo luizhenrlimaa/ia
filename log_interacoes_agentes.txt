@@ -1,0 +1,8 @@
+Log de Interacoes por Agente:
+----------------------------------------------
+Macaco 1 interagiu 42 vezes.
+Macaco 2 interagiu 664 vezes.
+Macaco 3 interagiu 92 vezes.
+Macaco 4 interagiu 185 vezes.
+Macaco 5 interagiu 502 vezes.
+Macaco 6 interagiu 27 vezes.
